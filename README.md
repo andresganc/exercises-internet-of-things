@@ -1,2 +1,5 @@
-# course-internet-of-things
-NC Course - Internet of Things
+
+# EXERCISES INTERNET OF THINGS
+
+
+## TABLE OF CONTENTS
